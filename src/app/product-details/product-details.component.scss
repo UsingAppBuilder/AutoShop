@@ -225,10 +225,10 @@
 }
 .group_13 {
   background-color: transparent;
+  align-items: baseline;
   min-height: 32px;
   height: 48px;
   padding: 8px;
-  align-items: center;
   min-width: 50px;
 }
 .text_5 {
@@ -250,17 +250,17 @@
 .group_14 {
   align-content: center;
   flex-wrap: wrap;
-  min-height: 40px;
   align-items: center;
+  min-height: 40px;
   position: relative;
   min-width: 50px;
 }
 .group_15 {
   background-color: hsla(var(--igx-grays-100));
+  align-items: baseline;
   min-height: 32px;
   height: 48px;
   padding: 8px;
-  align-items: center;
   min-width: 50px;
 }
 .text_7 {
@@ -292,13 +292,13 @@
   min-width: min-content;
   height: max-content;
 }
-.actions-content {
-  min-height: 40px;
-  min-width: 50px;
-}
 .group_16 {
   align-items: center;
   position: relative;
+  min-width: 50px;
+}
+.actions-content {
+  min-height: 40px;
   min-width: 50px;
 }
 .element_2 {
